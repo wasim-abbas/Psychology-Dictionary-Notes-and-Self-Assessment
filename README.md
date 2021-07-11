@@ -9,13 +9,13 @@ Learn Psychology provides variety of subjects with many useful information. Expl
 
 # Screenshot
 
-<img src="https://user-images.githubusercontent.com/46446037/125195008-31380680-e26d-11eb-85d5-5b489187420f.JPG" align="left" height="300" width="300" >
+<img src="https://user-images.githubusercontent.com/46446037/125206889-de794180-e2a2-11eb-8c3b-e6db96199652.png" align="left" height="300" width="200" > 
+<img src= "https://user-images.githubusercontent.com/46446037/125206892-e0430500-e2a2-11eb-8c61-9726f773e54a.png" align="center"height="300" width="200">
+<img src="https://user-images.githubusercontent.com/46446037/125206893-e0db9b80-e2a2-11eb-92cd-1b98289a3703.png" align="left"
+height="300" width="200"> 
+<img src="https://user-images.githubusercontent.com/46446037/125206894-e20cc880-e2a2-11eb-9aed-e822b8519a22.png" align="center"height="300" width="200">  
 
-<img src= "https://user-images.githubusercontent.com/46446037/125195156-dbb02980-e26d-11eb-9784-16bcb9ff74b8.JPG" align="left"
-height="500" width="700">
-
-<img src="https://user-images.githubusercontent.com/46446037/125195013-3301ca00-e26d-11eb-964e-5b2eed2993dc.JPG" align="left"
-height="500" width="700">
+   
 
 # Aim and Subjects
 
